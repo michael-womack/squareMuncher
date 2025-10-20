@@ -1,4 +1,6 @@
 # Square Muncher
+<img src="squareMuncher.png" width="500" alt="Square Muncher Screenshot">
+
 
 ## Project Overview
 
