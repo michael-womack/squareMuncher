@@ -4,7 +4,7 @@
 
 ## Project Overview
 
-A Python arcade-style game built with **Pygame**, where players control a green square that eats red squares for points while avoiding blue enemies. The game combines real-time movement, collision detection, and basic motion patterns to create a survival challenge.
+A Python arcade-style game built with **Pygame**, where players control a green square that eats red squares to accumulate points while avoiding blue enemies. The game combines real-time movement, collision detection, and basic motion patterns to create a survival challenge.
 
 ---
 
